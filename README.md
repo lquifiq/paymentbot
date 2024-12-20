@@ -1,6 +1,6 @@
 <div align="center">
 
-# Payment Bot
+# Payment Bot (discordjs@14)
 Has simple commands like /ltc which sends the address to ur litecoin, btc or paypal account.
 
 # How to setup?
